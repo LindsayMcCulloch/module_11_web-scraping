@@ -92,3 +92,14 @@ BCS Xpert Learning assistant
 
 Office Hours
 
+https://groups.google.com/g/watir-general/c/wGPKSnueKPQ
+
+https://groups.google.com/g/selenium-users/c/KGDDBFCXlmQ
+
+https://stackoverflow.com/questions/47910244/selenium-cant-find-chromedriver-exe
+
+https://stackoverflow.com/questions/63369229/selenium-webdriver-for-chrome-not-working-on-jupyterlab-mac
+
+https://github.com/SeleniumHQ/selenium/issues/11753
+
+https://stackoverflow.com/questions/tagged/splinter
