@@ -7,7 +7,8 @@ How to use:
 
 * part_1_mars_news.ipynb is the main Jupyter notebook containing code that scrapes the Mars news titles and preview text.
 * part_2_mars_weather.ipynb is the main Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualises, and analyses that data.
-
+* mars_weather_data.csv is the export csv file as created from code in "part_2_mars_weather.ipynb"
+* module_11_challenge_web-scraping_analysis.docx is the written analysis for the questions in "part_2_mars_weather.ipynb"
 
 Background:
 --------------------------------------------------------------------------------------------------------------------------------
@@ -92,14 +93,20 @@ BCS Xpert Learning assistant
 
 Office Hours
 
-https://groups.google.com/g/watir-general/c/wGPKSnueKPQ
-
-https://groups.google.com/g/selenium-users/c/KGDDBFCXlmQ
-
-https://stackoverflow.com/questions/47910244/selenium-cant-find-chromedriver-exe
-
 https://stackoverflow.com/questions/63369229/selenium-webdriver-for-chrome-not-working-on-jupyterlab-mac
 
-https://github.com/SeleniumHQ/selenium/issues/11753
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
-https://stackoverflow.com/questions/tagged/splinter
+https://splinter.readthedocs.io/en/latest/
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://discuss.circleci.com/t/unable-to-connect-to-chromedriver-error/32243
+
+https://medium.com/swlh/automate-data-collection-with-selenium-in-python-246a051206e2
+
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+
+https://medium.com/@BrendanArtley/matplotlib-color-gradients-21374910584b
+
+https://numpy.org/doc/stable/reference/generated/numpy.gradient.html
